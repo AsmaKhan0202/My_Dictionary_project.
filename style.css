@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+#dict{
+    height: 400px;
+    width: 500px;
+    background-color: yellowgreen;
+    margin: 150px auto;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+    box-sizing: border-box;
+    color: white;
+    font-size: large;
+}
+#heading
+{
+   padding: 20px;
+   text-align: center;
+   color: lightblue;
+}
+#word{
+    background-color: lightgray;
+    border: 0px;
+    width: 70%;
+    height: 20px;
+    border-radius: 20px;
+    padding-left: 30px;
+}
+#btn{
+    border-radius: 10px;
+    color: green;
+    background-color: lightblue;
+    padding: 5px;
+    width: 80px;
+}
