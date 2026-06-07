@@ -52,6 +52,9 @@ cd dictionary-app
 
 3. Open `index.html` in your browser.
 
+## Screenshots
+![image alt](https://github.com/AsmaKhan0202/My_Dictionary_project./blob/main/Screenshot%20(312).png?raw=true)
+
 ## 🎯 Learning Outcomes
 
 - Working with REST APIs
